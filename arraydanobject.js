@@ -1,4 +1,4 @@
-// Operasi pada Array
+//Operasi pada Array
 const fruits = ['apple', 'banana', 'cherry'];
 fruits.push('orange');
 console.log(fruits);
